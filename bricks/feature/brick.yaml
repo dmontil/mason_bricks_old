@@ -2,3 +2,5 @@ name: feature
 description: Create folders structure for a feature.
 vars:
   - name
+  - createJsonInModel
+  - createJsonInDTO

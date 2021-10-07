@@ -1,4 +1,4 @@
 name: feature_test
-description: A new brick created with the Mason CLI.
+description: Templeate for create features test
 vars:
   - name

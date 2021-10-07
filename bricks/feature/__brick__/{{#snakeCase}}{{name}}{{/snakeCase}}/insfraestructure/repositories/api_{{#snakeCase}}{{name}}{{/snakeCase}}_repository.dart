@@ -1,0 +1,1 @@
+ class Api{{#pascalCase}}{{name}}{{/pascalCase}}Repository implements  {{#pascalCase}}{{name}}{{/pascalCase}}Repository{}
