@@ -1,6 +1,6 @@
 name: feature
 description: Create folders structure for a feature.
-version: 0.1
+version: "1"
 vars:
   - name
   - createJsonInModel
